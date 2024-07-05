@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/hex-map-test-site/static/js/main.fc265e3e.js",
-    "static/media/MapStates.png": "/hex-map-test-site/static/media/MapStates.abcf0378e0e0d45c4097.png",
+    "main.js": "/hex-map-test-site/static/js/main.8ad13f24.js",
+    "static/media/MapStates.png": "/hex-map-test-site/static/media/MapStates.a08efd5535ab291d31af.png",
     "index.html": "/hex-map-test-site/index.html",
-    "main.fc265e3e.js.map": "/hex-map-test-site/static/js/main.fc265e3e.js.map"
+    "main.8ad13f24.js.map": "/hex-map-test-site/static/js/main.8ad13f24.js.map"
   },
   "entrypoints": [
-    "static/js/main.fc265e3e.js"
+    "static/js/main.8ad13f24.js"
   ]
 }
