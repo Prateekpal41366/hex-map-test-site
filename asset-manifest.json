@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/hex-map-test-site/static/js/main.dc93c17b.js",
+    "main.js": "/hex-map-test-site/static/js/main.47318cf5.js",
     "static/media/MapStates.png": "/hex-map-test-site/static/media/MapStates.a08efd5535ab291d31af.png",
-    "static/media/winningseats2.png": "/hex-map-test-site/static/media/winningseats2.39b9f87e000492302a97.png",
-    "static/media/winningseats4.png": "/hex-map-test-site/static/media/winningseats4.e139560bf4fe2689044c.png",
-    "static/media/winningseats1.png": "/hex-map-test-site/static/media/winningseats1.9ab11f4098e5064642b4.png",
-    "static/media/winningseats3.png": "/hex-map-test-site/static/media/winningseats3.8343418bc7d837ec4f78.png",
+    "static/media/winningseats4.png": "/hex-map-test-site/static/media/winningseats4.6a530a70e7f5b5ce73b2.png",
+    "static/media/winningseats3.png": "/hex-map-test-site/static/media/winningseats3.9ed4f04dc17f980f1b42.png",
+    "static/media/winningseats1.png": "/hex-map-test-site/static/media/winningseats1.09dd2a068fe0644a59b5.png",
+    "static/media/winningseats2.png": "/hex-map-test-site/static/media/winningseats2.6ecd96eccf33a478c203.png",
     "index.html": "/hex-map-test-site/index.html",
-    "main.dc93c17b.js.map": "/hex-map-test-site/static/js/main.dc93c17b.js.map"
+    "main.47318cf5.js.map": "/hex-map-test-site/static/js/main.47318cf5.js.map"
   },
   "entrypoints": [
-    "static/js/main.dc93c17b.js"
+    "static/js/main.47318cf5.js"
   ]
 }
